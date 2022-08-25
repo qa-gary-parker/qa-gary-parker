@@ -20,6 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Tutorial: Getting Started With Playwright Framework](https://medium.com/@qa.gary.parker/playwright-tutorial-getting-started-with-playwright-framework-2b3180227793?source=rss-3e83f522bdbc------2)
+- [k6 — Developer-centric performance testing](https://medium.com/@qa.gary.parker/k6-developer-centric-performance-testing-772e1ea68f5a?source=rss-3e83f522bdbc------2)
+- [Implementing security coverage for GitHub workflows](https://systemweakness.com/implementing-security-coverage-for-github-workflows-8e66380b3256?source=rss-3e83f522bdbc------2)
+- [Chaos Engineering — Attack, Observe, Improve](https://faun.pub/chaos-engineering-attack-observe-improve-abca91c4c1c6?source=rss-3e83f522bdbc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
