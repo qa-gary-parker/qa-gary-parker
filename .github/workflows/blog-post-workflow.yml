@@ -1,14 +1,16 @@
-name: Latest blog post workflow
-on: push
-#     schedule:
-#         - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://medium.com/feed/@qa.gary.parker"
+name: Latest writing
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://garyparker.dev/feed.xml"
+          max_post_count: "4"
