@@ -16,7 +16,7 @@ Each experiment post links to a public repo with the code and the results.
 
 <!-- BLOG-POST-LIST:START -->
 - [🌳 ARIA Snapshots: The Assertion Layer Your Locators Are Missing](https://garyparker.dev/blog/aria-snapshots-assertion-layer)
-- [🩹 Self-Healing Tests: What the Vendors Aren't Telling You](https://garyparker.dev/blog/self-healing-tests-what-vendors-arent-telling-you)
-- [🧬 Your AI's Tests Pass. Here's What They Don't Check](https://garyparker.dev/blog/mutation-testing-ai-generated-tests)
+- [🩹 Self-Healing Tests: What the Vendors Aren&#39;t Telling You](https://garyparker.dev/blog/self-healing-tests-what-vendors-arent-telling-you)
+- [🧬 Your AI&#39;s Tests Pass. Here&#39;s What They Don&#39;t Check](https://garyparker.dev/blog/mutation-testing-ai-generated-tests)
 - [🧪 Hands-On with Playwright Test Agents: Planner, Generator, Healer — Measured](https://garyparker.dev/blog/hands-on-with-playwright-test-agents)
 <!-- BLOG-POST-LIST:END -->
