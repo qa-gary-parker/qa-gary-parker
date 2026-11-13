@@ -15,8 +15,8 @@ Quality engineering for the AI era. I build open-source Playwright tooling and p
 Each experiment post links to a public repo with the code and the results.
 
 <!-- BLOG-POST-LIST:START -->
+- [Survive or Notice: What Your Locators Cost and What They Miss](https://garyparker.dev/newsletter/004-survive-or-notice)
 - [ARIA Snapshots: The Assertion Layer Your Locators Are Missing](https://garyparker.dev/blog/aria-snapshots-assertion-layer)
 - [Self-Healing Tests: What the Vendors Aren&#39;t Telling You](https://garyparker.dev/blog/self-healing-tests-what-vendors-arent-telling-you)
-- [Your AI&#39;s Tests Pass. Here&#39;s What They Don&#39;t Check](https://garyparker.dev/blog/mutation-testing-ai-generated-tests)
-- [Hands-On with Playwright Test Agents: Planner, Generator, Healer — Measured](https://garyparker.dev/blog/hands-on-with-playwright-test-agents)
+- [Trust, But Verify: When AI Writes the Tests](https://garyparker.dev/newsletter/003-trust-but-verify)
 <!-- BLOG-POST-LIST:END -->
