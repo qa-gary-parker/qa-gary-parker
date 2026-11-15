@@ -15,8 +15,8 @@ Quality engineering for the AI era. I build open-source Playwright tooling and p
 Each experiment post links to a public repo with the code and the results.
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright MCP vs CLI: Token Cost per Step Is Now the Same](https://garyparker.dev/blog/playwright-mcp-vs-cli-tokens)
+- [Finding Flaky Playwright Tests That Fail Every Retry](https://garyparker.dev/blog/find-flaky-playwright-tests-across-runs)
 - [Playwright 1.65: A Filter That Matches Nothing Now Fails Every Shard](https://garyparker.dev/blog/playwright-165-empty-shards)
-- [Survive or Notice: What Your Locators Cost and What They Miss](https://garyparker.dev/newsletter/004-survive-or-notice)
-- [ARIA Snapshots: The Assertion Layer Your Locators Are Missing](https://garyparker.dev/blog/aria-snapshots-assertion-layer)
-- [Self-Healing Tests: What the Vendors Aren&#39;t Telling You](https://garyparker.dev/blog/self-healing-tests-what-vendors-arent-telling-you)
+- [Playwright 1.65 onlyFailures: Smaller Reports That Say Zero Tests Passed](https://garyparker.dev/blog/playwright-165-only-failures)
 <!-- BLOG-POST-LIST:END -->
