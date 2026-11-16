@@ -15,8 +15,8 @@ Quality engineering for the AI era. I build open-source Playwright tooling and p
 Each experiment post links to a public repo with the code and the results.
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Generated Playwright Tools: 1 in 4 Runs Returned Wrong Data With No Error](https://garyparker.dev/blog/ai-generated-playwright-tools-silent-failures)
 - [Playwright MCP vs CLI: Token Cost per Step Is Now the Same](https://garyparker.dev/blog/playwright-mcp-vs-cli-tokens)
 - [Finding Flaky Playwright Tests That Fail Every Retry](https://garyparker.dev/blog/find-flaky-playwright-tests-across-runs)
 - [Playwright 1.65: A Filter That Matches Nothing Now Fails Every Shard](https://garyparker.dev/blog/playwright-165-empty-shards)
-- [Playwright 1.65 onlyFailures: Smaller Reports That Say Zero Tests Passed](https://garyparker.dev/blog/playwright-165-only-failures)
 <!-- BLOG-POST-LIST:END -->
