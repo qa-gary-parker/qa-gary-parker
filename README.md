@@ -15,8 +15,8 @@ Quality engineering for the AI era. I build open-source Playwright tooling and p
 Each experiment post links to a public repo with the code and the results.
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharding Playwright in GitHub Actions With One Merged HTML Report](https://garyparker.dev/blog/playwright-sharding-merge-reports-github-actions)
 - [Playwright --update-snapshots Overwrote a Good Baseline and Passed: 226 of 226 Runs](https://garyparker.dev/blog/playwright-update-snapshots-unstable-page)
 - [AI-Generated Playwright Tools: 1 in 4 Runs Returned Wrong Data With No Error](https://garyparker.dev/blog/ai-generated-playwright-tools-silent-failures)
 - [Playwright MCP vs CLI: Token Cost per Step Is Now the Same](https://garyparker.dev/blog/playwright-mcp-vs-cli-tokens)
-- [Finding Flaky Playwright Tests That Fail Every Retry](https://garyparker.dev/blog/find-flaky-playwright-tests-across-runs)
 <!-- BLOG-POST-LIST:END -->
