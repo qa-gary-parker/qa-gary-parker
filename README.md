@@ -15,8 +15,8 @@ Quality engineering for the AI era. I build open-source Playwright tooling and p
 Each experiment post links to a public repo with the code and the results.
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Graph Test Selection: 99.6% of Faults Caught, 3.4% of Suite Time](https://garyparker.dev/blog/code-graph-test-impact-analysis)
+- [Writing a Custom Playwright Reporter: 8 Failures From 2 Failing Tests](https://garyparker.dev/blog/writing-a-custom-playwright-reporter)
 - [Playwright WebMCP: Calls Pass 50 of 50, First Read Misses Late Tools](https://garyparker.dev/blog/playwright-webmcp)
 - [Sharding Playwright in GitHub Actions With One Merged HTML Report](https://garyparker.dev/blog/playwright-sharding-merge-reports-github-actions)
-- [Playwright --update-snapshots Overwrote a Good Baseline and Passed: 226 of 226 Runs](https://garyparker.dev/blog/playwright-update-snapshots-unstable-page)
-- [AI-Generated Playwright Tools: 1 in 4 Runs Returned Wrong Data With No Error](https://garyparker.dev/blog/ai-generated-playwright-tools-silent-failures)
 <!-- BLOG-POST-LIST:END -->
