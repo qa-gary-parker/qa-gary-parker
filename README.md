@@ -2,17 +2,22 @@
 
 Quality engineering for the AI era. I build open-source Playwright tooling and publish measured experiments on what keeps test suites fast and trustworthy. 12+ years in QA, from games testing to test architecture. London, UK.
 
-[garyparker.dev](https://garyparker.dev) · [Playbook](https://garyparker.dev/playbook) · [QA Ark newsletter](https://garyparker.dev/newsletter) · [Talks](https://garyparker.dev/events) · [LinkedIn](https://www.linkedin.com/in/gary-parker-a1257465)
+[garyparker.dev](https://garyparker.dev) · [Experiments](https://garyparker.dev/measured) · [Playbook](https://garyparker.dev/playbook) · [QA Ark newsletter](https://garyparker.dev/newsletter) · [Talks](https://garyparker.dev/events)
+
+[YouTube](https://www.youtube.com/@garyparkerdev) · [LinkedIn](https://www.linkedin.com/in/gary-parker-a1257465) · [Bluesky](https://bsky.app/profile/garyparkerdev.bsky.social) · [X](https://x.com/QA_Gary_Parker)
 
 #### Open source
 
-- [**playwright-smart-reporter**](https://github.com/qa-gary-parker/playwright-smart-reporter): Playwright HTML reporter with failure analysis, flaky test detection and run history. [![npm downloads](https://img.shields.io/npm/dm/playwright-smart-reporter?label=npm%20downloads&color=2e5e4e)](https://www.npmjs.com/package/playwright-smart-reporter)
-- [**playwright-affected**](https://github.com/qa-gary-parker/playwright-affected): runs the Playwright tests a pull request affects, and the full suite when it cannot tell.
+- [**playwright-smart-reporter**](https://garyparker.dev/projects/playwright-smart-reporter): Playwright HTML reporter with failure analysis, flaky test detection and run history. [![npm downloads](https://img.shields.io/npm/dm/playwright-smart-reporter?label=npm%20downloads&color=2e5e4e)](https://www.npmjs.com/package/playwright-smart-reporter)
+- [**playwright-affected**](https://garyparker.dev/projects/playwright-affected): runs the Playwright tests a pull request affects, and the full suite when it cannot tell. [![npm downloads](https://img.shields.io/npm/dm/playwright-affected?label=npm%20downloads&color=2e5e4e)](https://www.npmjs.com/package/playwright-affected)
+- [**playwright-shard-balancer**](https://garyparker.dev/projects/playwright-shard-balancer): shards by duration, not test count, so every shard finishes at about the same time. [![npm downloads](https://img.shields.io/npm/dm/playwright-shard-balancer?label=npm%20downloads&color=2e5e4e)](https://www.npmjs.com/package/playwright-shard-balancer)
+- [**tracescrub**](https://garyparker.dev/projects/tracescrub): scrubs secrets from Playwright traces, HAR files, reports and storageState before they become CI artifacts. [![npm downloads](https://img.shields.io/npm/dm/pw-tracescrub?label=npm%20downloads&color=2e5e4e)](https://www.npmjs.com/package/pw-tracescrub)
+- [**tracediff**](https://garyparker.dev/projects/tracediff): diffs a passing and a failing Playwright trace to find the first step where the runs split. [![npm downloads](https://img.shields.io/npm/dm/pw-tracediff?label=npm%20downloads&color=2e5e4e)](https://www.npmjs.com/package/pw-tracediff)
 - [**playwright-release-notes-examples**](https://github.com/qa-gary-parker/playwright-release-notes-examples): runnable examples of what each Playwright release adds.
 
 #### Latest writing
 
-Each experiment post links to a public repo with the code and the results.
+Each experiment post links to a public repo with the code and the results. All of them are on the [experiments page](https://garyparker.dev/measured).
 
 <!-- BLOG-POST-LIST:START -->
 - [Code Graph Test Selection: 99.6% of Faults Caught, 3.4% of Suite Time](https://garyparker.dev/blog/code-graph-test-impact-analysis)
